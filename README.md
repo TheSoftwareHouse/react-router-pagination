@@ -1,9 +1,8 @@
 # Status
 
-[![Build Status](https://travis-ci.com/jakub-musik/react-router-pagination.svg?branch=master)](https://travis-ci.com/jakub-musik/react-router-pagination) [![Code Coverage](https://codecov.io/gh/jakub-musik/react-router-pagination/branch/master/graph/badge.svg)](https://codecov.io/gh/jakub-musik/react-router-pagination) [![License](https://img.shields.io/npm/l/@tshio/react-router-pagination.svg)](https://github.com/jakub-musik/react-router-pagination/blob/master/LICENSE) [![Version](https://img.shields.io/npm/v/@tshio/react-router-pagination.svg)](https://www.npmjs.com/package/@tshio/react-router-pagination)
+[![Build Status](https://travis-ci.org/TheSoftwareHouse/react-router-pagination.svg?branch=master)](https://travis-ci.org/TheSoftwareHouse/react-router-pagination) [![Code Coverage](https://codecov.io/gh/TheSoftwareHouse/react-router-pagination/branch/master/graph/badge.svg)](https://codecov.io/gh/TheSoftwareHouse/react-router-pagination) [![License](https://img.shields.io/npm/l/@tshio/react-router-pagination.svg)](https://github.com/TheSoftwareHouse/react-router-pagination/blob/master/LICENSE.md) [![Version](https://img.shields.io/npm/v/@tshio/react-router-pagination.svg)](https://www.npmjs.com/package/@tshio/react-router-pagination)
 
-
-# React Router Pagination
+# react-router-pagination
 
 ## Installation
 

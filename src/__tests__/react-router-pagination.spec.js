@@ -29,7 +29,6 @@ describe('react-router-pagination', () => {
     const wrapper = mount(<ComponentWithPagination {...wrappedComponentProps} />);
 
     expect(wrapper.find(WrappedComponent).exists()).toEqual(true);
-    expect(wrapper).toMatchSnapshot();
   });
 
   it('render pagination component correctly', () => {
@@ -37,7 +36,6 @@ describe('react-router-pagination', () => {
     mount(wrapper.find(WrappedComponent).prop('pagination')({}));
 
     expect(wrapper.find(WrappedComponent).props().pagination).not.toBe(undefined);
-    expect(wrapper).toMatchSnapshot();
   });
 
   it('add page param if it is missing', () => {
